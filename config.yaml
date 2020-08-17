@@ -1,0 +1,12 @@
+deployment:
+  endpoint: 
+  access_token: 
+employees:
+  key: 
+  file: employees.json
+issues:
+  key: 
+  file: issues.json
+trello:
+  key: 
+  file: trello.json
