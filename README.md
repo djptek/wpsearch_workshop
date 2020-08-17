@@ -7,10 +7,13 @@ requirements: python 3.8, elastic_workplace_search python client
 usage: wpsearch.py [-h] [-p] {employees,trello,issues}
 
 - Create an enterprise search deployment in cloud.elastic.co
+- Create 3 custom api sources named employees, issues and trello
+- Clone repo
+- Copy endpoint, access_token and keys for individual sources and paste into sections in config.yaml
 - Install Requirements
 
 `python -m pip install elastic_workplace_search`
-- Load data one source at a time
+- Load data one source at a time using the script
 
 `python wpsearch.py employees`
 
