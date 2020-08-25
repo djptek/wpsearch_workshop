@@ -7,7 +7,7 @@ from elastic_workplace_search import Client
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('source', help='source name',
-                        choices={'employees','issues','trello'})
+                        choices={'employees','issues','trello','bikes'})
     parser.add_argument('-p', '--purge', action='store_true',
                         help='purge all data for the source')
     return parser.parse_args()
