@@ -1,0 +1,5 @@
+{"id": 0, "creator": "Haro", "date": "2006-06-01T00:00:00.000Z", "type": "BMX", "status": "dirt", "assigned": "T", "url": "https://harobikes.com/pages/bmx", "title": "Haro BMX", "desc": "setup for dirt with Slam Bars cut to 26"}
+{"id": 1, "creator": "Razesa", "date": "1996-06-01T00:00:00.000Z", "type": "Road Race", "status": "turbo", "assigned": "E", "url": "https://tacx.com/", "title": "Razesa 105", "desc": "setup for on static trainer"}
+{"id": 2, "creator": "Vitus", "date": "2018-06-01T00:00:00.000Z", "type": "Road Race", "status": "race", "assigned": "M", "url": "https://harobikes.com/pages/bmx", "title": "Vitus Sora", "desc": "setup for train and race"}
+{"id": 3, "creator": "Stevens", "date": "2019-06-01T00:00:00.000Z", "type": "Road Race", "status": "race", "assigned": "G", "url": "https://www.stevensbikes.de/", "title": "Stevens 105", "desc": "setup for race"}
+{"id": 4, "creator": "Dolan", "date": "2018-06-01T00:00:00.000Z", "type": "Track", "status": "training", "assigned": "D", "title": "https://www.dolan-bikes.com/track/"}, "title": "Dolan Pista", "desc": "setup for fixed training with tri-bars"}
