@@ -10,3 +10,6 @@ issues:
 trello:
   key: 
   file: trello.json
+bikes:
+  key:
+  file: bikes.json
