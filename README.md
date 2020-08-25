@@ -23,6 +23,9 @@ usage: wpsearch.py [-h] [-p] {employees,trello,issues}
 
 `python wpsearch.py trello`
 
+
+`python wpsearch.py bikes`
+
 - When done, optionally purge data
 
 `python wpsearch.py employees -p`
@@ -32,6 +35,9 @@ usage: wpsearch.py [-h] [-p] {employees,trello,issues}
 
 
 `python wpsearch.py trello -p`
+
+
+`python wpsearch.py bikes -p`
 
 
 
